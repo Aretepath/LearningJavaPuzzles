@@ -14,9 +14,9 @@ public static void main(String[] args) {
 		System.out.println("ages are different");
 	} else {
 		// else do this
-	    System.out.println("ages are the same");
+	    System.out.println("ages are the same set");
 	    
-	}
+	} //testpush
 	
 	String a = "hello";
 	String b = "there";
@@ -36,7 +36,7 @@ public static void main(String[] args) {
 	int c = str.indexOf("there", 7);
 	int d = str.lastIndexOf("yogi");
 	
-	System.out.println(c); //left to right
+	System.out.println(c); //left to rightdhdh
 	System.out.println(d); //right to left
 
 }
