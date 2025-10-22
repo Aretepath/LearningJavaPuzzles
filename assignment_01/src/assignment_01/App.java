@@ -24,7 +24,8 @@ public class App {
 			result = str.substring(midIdx-1, midIdx+2);
 		}
 		return result;
-	}
+		
+		}
 	
 	
 	
